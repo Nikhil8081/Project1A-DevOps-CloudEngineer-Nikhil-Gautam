@@ -88,4 +88,3 @@ See [ERRATA.md](ERRATA.md) for the 3 deliberate technical errors identified and 
 
 ---
 
-*AI Attribution: This project used Claude (Anthropic) to assist with research, document drafting, and configuration file generation. All architectural decisions, compliance mappings, and technical judgements are the candidate's own.*
